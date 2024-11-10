@@ -13,6 +13,10 @@ public class IndexController {
 	 * Cada clase controladora puede tener varios métodos
 	 * es decir varias URL 
 	 * es decir, cada método atiende a un html
+	 * 
+	 * 
+	 * eres gay
+	 * 
 	 */
 	
 	@GetMapping("/index")
