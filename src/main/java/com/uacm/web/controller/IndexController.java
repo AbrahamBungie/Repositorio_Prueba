@@ -38,4 +38,8 @@ public class IndexController {
 		
 		return "perfil";
 	}
+	
+	private boolean prueba() {
+		return false;
+	}
 }
